@@ -1,0 +1,55 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+buzz.py	../buzz.py	1;"	kind:file	line:1
+count	../imparesN.py	/^count = 0$/;"	kind:variable	line:2
+digito	../somaDigitos.py	/^    digito = n % 10$/;"	kind:variable	line:4
+exe1_perimetro_area.py	../exe1_perimetro_area.py	1;"	kind:file	line:1
+exe2_media.py	../exe2_media.py	1;"	kind:file	line:1
+fat	../fatorial2.py	/^    fat = fat * i$/;"	kind:variable	line:5
+fat	../fatorial2.py	/^fat = 1$/;"	kind:variable	line:3
+fatorial.py	../fatorial.py	1;"	kind:file	line:1
+fatorial2.py	../fatorial2.py	1;"	kind:file	line:1
+fizz.py	../fizz.py	1;"	kind:file	line:1
+fizzbuzz.py	../fizzbuzz.py	1;"	kind:file	line:1
+i	../fatorial2.py	/^i = 1$/;"	kind:variable	line:2
+i	../teste.py	/^            i = i + 1$/;"	kind:variable	line:11
+imparesN.py	../imparesN.py	1;"	kind:file	line:1
+media	../exe2_media.py	/^media = (n1+n2+n3+n4)\/4$/;"	kind:variable	line:9
+n	../fatorial.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:2
+n	../fatorial2.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:1
+n	../imparesN.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:1
+n	../somaDigitos.py	/^    n = n \/\/ 10$/;"	kind:variable	line:5
+n	../somaDigitos.py	/^n = int(input("Digite um número inteiro: "))$/;"	kind:variable	line:1
+n	../teste.py	/^    n = int(input("Digite um número, ou zero para terminar: "))$/;"	kind:variable	line:4
+n1	../exe2_media.py	/^n1 = float(input("Digite a primeira nota: "))$/;"	kind:variable	line:1
+n1	../ordenacao.py	/^n1 = int(input("Digite primeiro número: "))$/;"	kind:variable	line:1
+n2	../exe2_media.py	/^n2 = float(input("Digite a segunda nota: "))$/;"	kind:variable	line:3
+n2	../ordenacao.py	/^n2 = int(input("Digite segundo número: "))$/;"	kind:variable	line:2
+n3	../exe2_media.py	/^n3 = float(input("Digite a terceira nota: "))$/;"	kind:variable	line:5
+n3	../ordenacao.py	/^n3 = int(input("Digite terceiro número: "))$/;"	kind:variable	line:3
+n4	../exe2_media.py	/^n4 = float(input("Digite a quarta  nota: "))$/;"	kind:variable	line:7
+numero	../buzz.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
+numero	../fizz.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
+numero	../fizzbuzz.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
+numero	../paridade.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
+ordenacao.py	../ordenacao.py	1;"	kind:file	line:1
+p	../teste.py	/^            p = p + 1$/;"	kind:variable	line:9
+paridade.py	../paridade.py	1;"	kind:file	line:1
+soma	../somaDigitos.py	/^soma = 0$/;"	kind:variable	line:2
+somaDigitos.py	../somaDigitos.py	1;"	kind:file	line:1
+terminou	../teste.py	/^        terminou = True$/;"	kind:variable	line:6
+terminou	../teste.py	/^terminou = False$/;"	kind:variable	line:1
+teste.py	../funcao/teste.py	1;"	kind:file	line:1
+teste.py	../teste.py	1;"	kind:file	line:1
+total_Caracteres	../funcao/teste.py	/^def total_Caracteres (x, y, z):$/;"	kind:function	line:1
+valor	../exe1_perimetro_area.py	/^valor = input("Digite o valor correspondente ao lado de um quadrado: ")$/;"	kind:variable	line:1
+valorInt	../exe1_perimetro_area.py	/^valorInt = int(valor)$/;"	kind:variable	line:2
+x	../exe1_perimetro_area.py	/^x = 4*valorInt$/;"	kind:variable	line:3
+x	../funcao/teste.py	/^x = "Jo"$/;"	kind:variable	line:4
+y	../exe1_perimetro_area.py	/^y = valorInt ** 2$/;"	kind:variable	line:4
+y	../funcao/teste.py	/^y = "di"$/;"	kind:variable	line:5
+z	../funcao/teste.py	/^z= "el"$/;"	kind:variable	line:6

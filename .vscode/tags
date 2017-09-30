@@ -7,6 +7,7 @@
 buzz.py	../buzz.py	1;"	kind:file	line:1
 count	../imparesN.py	/^count = 0$/;"	kind:variable	line:2
 digito	../somaDigitos.py	/^    digito = n % 10$/;"	kind:variable	line:4
+e_primo	../funcao/primo.py	/^def e_primo(n):$/;"	kind:function	line:1
 exe1_perimetro_area.py	../exe1_perimetro_area.py	1;"	kind:file	line:1
 exe2_media.py	../exe2_media.py	1;"	kind:file	line:1
 fat	../fatorial2.py	/^    fat = fat * i$/;"	kind:variable	line:5
@@ -18,6 +19,9 @@ fizzbuzz.py	../fizzbuzz.py	1;"	kind:file	line:1
 i	../fatorial2.py	/^i = 1$/;"	kind:variable	line:2
 i	../teste.py	/^            i = i + 1$/;"	kind:variable	line:11
 imparesN.py	../imparesN.py	1;"	kind:file	line:1
+maior_primo	../funcao/primo.py	/^def maior_primo(n):$/;"	kind:function	line:9
+maximo	../funcao/maximo.py	/^def maximo(x,y):$/;"	kind:function	line:1
+maximo.py	../funcao/maximo.py	1;"	kind:file	line:1
 media	../exe2_media.py	/^media = (n1+n2+n3+n4)\/4$/;"	kind:variable	line:9
 n	../fatorial.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:2
 n	../fatorial2.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:1
@@ -39,6 +43,7 @@ numero	../paridade.py	/^numero = int(input("Digite um número: "))$/;"	kind:vari
 ordenacao.py	../ordenacao.py	1;"	kind:file	line:1
 p	../teste.py	/^            p = p + 1$/;"	kind:variable	line:9
 paridade.py	../paridade.py	1;"	kind:file	line:1
+primo.py	../funcao/primo.py	1;"	kind:file	line:1
 soma	../somaDigitos.py	/^soma = 0$/;"	kind:variable	line:2
 somaDigitos.py	../somaDigitos.py	1;"	kind:file	line:1
 terminou	../teste.py	/^        terminou = True$/;"	kind:variable	line:6
@@ -48,6 +53,8 @@ teste.py	../teste.py	1;"	kind:file	line:1
 total_Caracteres	../funcao/teste.py	/^def total_Caracteres (x, y, z):$/;"	kind:function	line:1
 valor	../exe1_perimetro_area.py	/^valor = input("Digite o valor correspondente ao lado de um quadrado: ")$/;"	kind:variable	line:1
 valorInt	../exe1_perimetro_area.py	/^valorInt = int(valor)$/;"	kind:variable	line:2
+vogal	../funcao/vogal.py	/^def vogal(letra) :$/;"	kind:function	line:1
+vogal.py	../funcao/vogal.py	1;"	kind:file	line:1
 x	../exe1_perimetro_area.py	/^x = 4*valorInt$/;"	kind:variable	line:3
 x	../funcao/teste.py	/^x = "Jo"$/;"	kind:variable	line:4
 y	../exe1_perimetro_area.py	/^y = valorInt ** 2$/;"	kind:variable	line:4

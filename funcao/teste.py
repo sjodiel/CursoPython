@@ -4,7 +4,7 @@ def total_Caracteres(x, y, z):
 
 
 #testes
-x = "Jo"
-y = "di"
-z = "el"
-print(total_Caracteres (x,y,z))
+a = 'Jo'
+b = 'di'
+c = 'el'
+print(total_Caracteres (a,b,c))

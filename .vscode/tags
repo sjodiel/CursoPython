@@ -4,10 +4,31 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+a	../funcao/teste.py	/^a = 'Jo'$/;"	kind:variable	line:7
+altura	../Repetições_Encaixadas/Teste/q6.py	/^altura = 5$/;"	kind:variable	line:1
+altura	../Repetições_Encaixadas/retangulo_cheio.py	/^altura = int(input('digite a altura: '))$/;"	kind:variable	line:2
+altura	../Repetições_Encaixadas/retangulo_vazio.py	/^altura = int(input('digite a altura: '))$/;"	kind:variable	line:2
+b	../funcao/teste.py	/^b = 'di'$/;"	kind:variable	line:8
 buzz.py	../buzz.py	1;"	kind:file	line:1
+c	../funcao/teste.py	/^c = 'el'$/;"	kind:variable	line:9
+campeonato	../jogo_nim/jogo_nim.py	/^def campeonato():$/;"	kind:function	line:100
+campeonato	../jogo_nim/jogonim2.py	/^def campeonato():$/;"	kind:function	line:192
+campeonato	../jogo_nim/nim.py	/^def campeonato():$/;"	kind:function	line:88
+campeonato	../jogo_nim/nim2.py	/^def campeonato():$/;"	kind:function	line:39
+coluna	../Repetições_Encaixadas/Teste/q6.py	/^        coluna = coluna + 1$/;"	kind:variable	line:11
+coluna	../Repetições_Encaixadas/Teste/q6.py	/^    coluna = 2$/;"	kind:variable	line:5
+computador_escolhe_jogada	../jogo_nim/jogo_nim.py	/^def computador_escolhe_jogada(n, m):$/;"	kind:function	line:3
+computador_escolhe_jogada	../jogo_nim/jogonim2.py	/^def computador_escolhe_jogada(n, m):$/;"	kind:function	line:91
+computador_escolhe_jogada	../jogo_nim/nim.py	/^def computador_escolhe_jogada(n, m):$/;"	kind:function	line:3
+computador_escolhe_jogada	../jogo_nim/nim2.py	/^def computador_escolhe_jogada(n, m):$/;"	kind:function	line:93
+cont	../Repetições_Encaixadas/Teste/q1.py	/^cont = 0$/;"	kind:variable	line:2
+cont	../Repetições_Encaixadas/Teste/q4.py	/^cont = 0$/;"	kind:variable	line:2
+cont	../Repetições_Encaixadas/Teste/q5.py	/^cont = 0$/;"	kind:variable	line:2
 count	../imparesN.py	/^count = 0$/;"	kind:variable	line:2
+desenha	../Repetições_Encaixadas/Teste/q2.py	/^def desenha(linha):$/;"	kind:function	line:1
 digito	../somaDigitos.py	/^    digito = n % 10$/;"	kind:variable	line:4
 e_primo	../funcao/primo.py	/^def e_primo(n):$/;"	kind:function	line:1
+escolha	../jogo_nim/nim2.py	/^escolha = int(input("2 - para jogar um campeonato "))$/;"	kind:variable	line:122
 exe1_perimetro_area.py	../exe1_perimetro_area.py	1;"	kind:file	line:1
 exe2_media.py	../exe2_media.py	1;"	kind:file	line:1
 fat	../fatorial2.py	/^    fat = fat * i$/;"	kind:variable	line:5
@@ -19,11 +40,20 @@ fizzbuzz.py	../fizzbuzz.py	1;"	kind:file	line:1
 i	../fatorial2.py	/^i = 1$/;"	kind:variable	line:2
 i	../teste.py	/^            i = i + 1$/;"	kind:variable	line:11
 imparesN.py	../imparesN.py	1;"	kind:file	line:1
+jogo	../jogo_nim/jogo_nim.py	/^        jogo = 0/;"	kind:variable	line:154
+jogo	../jogo_nim/jogo_nim.py	/^    jogo = int(input())$/;"	kind:variable	line:140
+jogo	../jogo_nim/jogo_nim.py	/^jogo = 0$/;"	kind:variable	line:1
+jogo_nim.py	../jogo_nim/jogo_nim.py	1;"	kind:file	line:1
+jogonim2.py	../jogo_nim/jogonim2.py	1;"	kind:file	line:1
+largura	../Repetições_Encaixadas/retangulo_cheio.py	/^largura = int(input('digite a largura: '))$/;"	kind:variable	line:1
+largura	../Repetições_Encaixadas/retangulo_vazio.py	/^largura = int(input('digite a largura: '))$/;"	kind:variable	line:1
+linha	../Repetições_Encaixadas/Teste/q6.py	/^    linha = linha + 1/;"	kind:variable	line:13
+linha	../Repetições_Encaixadas/Teste/q6.py	/^linha = 1$/;"	kind:variable	line:2
 maior_primo	../funcao/primo.py	/^def maior_primo(n):$/;"	kind:function	line:9
 maximo	../funcao/maximo.py	/^def maximo(x,y):$/;"	kind:function	line:1
 maximo.py	../funcao/maximo.py	1;"	kind:file	line:1
 media	../exe2_media.py	/^media = (n1+n2+n3+n4)\/4$/;"	kind:variable	line:9
-n	../fatorial.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:2
+n	../fatorial.py	/^n = int(input("Digite o valor de n: "));$/;"	kind:variable	line:2
 n	../fatorial2.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:1
 n	../imparesN.py	/^n = int(input("Digite o valor de n: "))$/;"	kind:variable	line:1
 n	../somaDigitos.py	/^    n = n \/\/ 10$/;"	kind:variable	line:5
@@ -36,27 +66,75 @@ n2	../ordenacao.py	/^n2 = int(input("Digite segundo número: "))$/;"	kind:variab
 n3	../exe2_media.py	/^n3 = float(input("Digite a terceira nota: "))$/;"	kind:variable	line:5
 n3	../ordenacao.py	/^n3 = int(input("Digite terceiro número: "))$/;"	kind:variable	line:3
 n4	../exe2_media.py	/^n4 = float(input("Digite a quarta  nota: "))$/;"	kind:variable	line:7
+nim.py	../jogo_nim/nim.py	1;"	kind:file	line:1
+nim2.py	../jogo_nim/nim2.py	1;"	kind:file	line:1
 numero	../buzz.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
 numero	../fizz.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
 numero	../fizzbuzz.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
 numero	../paridade.py	/^numero = int(input("Digite um número: "))$/;"	kind:variable	line:1
+opcao	../jogo_nim/jogonim2.py	/^        opcao = int(input('1 - Para jogar uma partida isolada\\n2 - Para jogar um campeonato (melhor de 3)\\n0 - SAIR\\n'))$/;"	kind:variable	line:272
+opcao	../jogo_nim/jogonim2.py	/^opcao = int(input('1 - Para jogar uma partida isolada\\n2 - Para jogar um campeonato (melhor de 3)\\n0 = SAIR\\n'))$/;"	kind:variable	line:260
 ordenacao.py	../ordenacao.py	1;"	kind:file	line:1
 p	../teste.py	/^            p = p + 1$/;"	kind:variable	line:9
 paridade.py	../paridade.py	1;"	kind:file	line:1
+partida	../jogo_nim/jogo_nim.py	/^def partida():$/;"	kind:function	line:50
+partida	../jogo_nim/jogonim2.py	/^def partida():$/;"	kind:function	line:177
+partida	../jogo_nim/nim.py	/^def partida():$/;"	kind:function	line:48
+partida	../jogo_nim/nim2.py	/^def partida():$/;"	kind:function	line:1
 primo.py	../funcao/primo.py	1;"	kind:file	line:1
+q1.py	../Repetições_Encaixadas/Teste/q1.py	1;"	kind:file	line:1
+q2.py	../Repetições_Encaixadas/Teste/q2.py	1;"	kind:file	line:1
+q3.py	../Repetições_Encaixadas/Teste/q3.py	1;"	kind:file	line:1
+q4.py	../Repetições_Encaixadas/Teste/q4.py	1;"	kind:file	line:1
+q5.py	../Repetições_Encaixadas/Teste/q5.py	1;"	kind:file	line:1
+q6.py	../Repetições_Encaixadas/Teste/q6.py	1;"	kind:file	line:1
+q7.py	../Repetições_Encaixadas/Teste/q7.py	1;"	kind:file	line:1
+retangulo_cheio.py	../Repetições_Encaixadas/retangulo_cheio.py	1;"	kind:file	line:1
+retangulo_vazio.py	../Repetições_Encaixadas/retangulo_vazio.py	1;"	kind:file	line:1
 soma	../somaDigitos.py	/^soma = 0$/;"	kind:variable	line:2
 somaDigitos.py	../somaDigitos.py	1;"	kind:file	line:1
+tabuada	../Repetições_Encaixadas/Teste/q3.py	/^def tabuada():$/;"	kind:function	line:1
+tabuada2	../Repetições_Encaixadas/Teste/q3.py	/^def tabuada2():$/;"	kind:function	line:14
+tabuada3	../Repetições_Encaixadas/Teste/q3.py	/^def tabuada3():$/;"	kind:function	line:27
+tabuada4	../Repetições_Encaixadas/Teste/q3.py	/^def tabuada4():$/;"	kind:function	line:39
+tabuada5	../Repetições_Encaixadas/Teste/q3.py	/^def tabuada5():$/;"	kind:function	line:51
 terminou	../teste.py	/^        terminou = True$/;"	kind:variable	line:6
 terminou	../teste.py	/^terminou = False$/;"	kind:variable	line:1
 teste.py	../funcao/teste.py	1;"	kind:file	line:1
 teste.py	../teste.py	1;"	kind:file	line:1
-total_Caracteres	../funcao/teste.py	/^def total_Caracteres (x, y, z):$/;"	kind:function	line:1
+tipo_jogo	../jogo_nim/nim.py	/^        tipo_jogo = 0/;"	kind:variable	line:136
+tipo_jogo	../jogo_nim/nim.py	/^    tipo_jogo = int(input("Sua opção: "))$/;"	kind:variable	line:122
+tipo_jogo	../jogo_nim/nim.py	/^tipo_jogo = 0$/;"	kind:variable	line:1
+total_Caracteres	../funcao/teste.py	/^def total_Caracteres(x, y, z):$/;"	kind:function	line:1
+usuario_escolhe_jogada	../jogo_nim/jogo_nim.py	/^def usuario_escolhe_jogada(n, m):$/;"	kind:function	line:26
+usuario_escolhe_jogada	../jogo_nim/jogonim2.py	/^def usuario_escolhe_jogada(n, m):$/;"	kind:function	line:1
+usuario_escolhe_jogada	../jogo_nim/nim.py	/^def usuario_escolhe_jogada(n, m):$/;"	kind:function	line:25
+usuario_escolhe_jogada	../jogo_nim/nim2.py	/^def usuario_escolhe_jogada(n, m):$/;"	kind:function	line:109
 valor	../exe1_perimetro_area.py	/^valor = input("Digite o valor correspondente ao lado de um quadrado: ")$/;"	kind:variable	line:1
 valorInt	../exe1_perimetro_area.py	/^valorInt = int(valor)$/;"	kind:variable	line:2
 vogal	../funcao/vogal.py	/^def vogal(letra) :$/;"	kind:function	line:1
 vogal.py	../funcao/vogal.py	1;"	kind:file	line:1
+x	../Repetições_Encaixadas/Teste/q1.py	/^    x = x + 1/;"	kind:variable	line:8
+x	../Repetições_Encaixadas/Teste/q1.py	/^x = 1$/;"	kind:variable	line:1
+x	../Repetições_Encaixadas/Teste/q4.py	/^    x = x - 1/;"	kind:variable	line:9
+x	../Repetições_Encaixadas/Teste/q4.py	/^x = 2$/;"	kind:variable	line:1
+x	../Repetições_Encaixadas/Teste/q5.py	/^    x = x - 1/;"	kind:variable	line:9
+x	../Repetições_Encaixadas/Teste/q5.py	/^x = 2$/;"	kind:variable	line:1
+x	../Repetições_Encaixadas/Teste/q7.py	/^    x = x + 1/;"	kind:variable	line:7
+x	../Repetições_Encaixadas/Teste/q7.py	/^x = 1$/;"	kind:variable	line:1
+x	../Repetições_Encaixadas/retangulo_cheio.py	/^        x = x + 1$/;"	kind:variable	line:9
+x	../Repetições_Encaixadas/retangulo_cheio.py	/^    x = 1/;"	kind:variable	line:12
+x	../Repetições_Encaixadas/retangulo_vazio.py	/^        x = x + 1$/;"	kind:variable	line:14
+x	../Repetições_Encaixadas/retangulo_vazio.py	/^    x = 1/;"	kind:variable	line:17
 x	../exe1_perimetro_area.py	/^x = 4*valorInt$/;"	kind:variable	line:3
-x	../funcao/teste.py	/^x = "Jo"$/;"	kind:variable	line:4
+y	../Repetições_Encaixadas/Teste/q1.py	/^        y = y + 1$/;"	kind:variable	line:7
+y	../Repetições_Encaixadas/Teste/q1.py	/^    y = 0$/;"	kind:variable	line:4
+y	../Repetições_Encaixadas/Teste/q4.py	/^        y = y + 1$/;"	kind:variable	line:8
+y	../Repetições_Encaixadas/Teste/q4.py	/^    y = 0$/;"	kind:variable	line:4
+y	../Repetições_Encaixadas/Teste/q5.py	/^        y = y - 1$/;"	kind:variable	line:8
+y	../Repetições_Encaixadas/Teste/q5.py	/^    y = 0$/;"	kind:variable	line:4
+y	../Repetições_Encaixadas/Teste/q7.py	/^        y = y + 1$/;"	kind:variable	line:6
+y	../Repetições_Encaixadas/Teste/q7.py	/^    y = 1$/;"	kind:variable	line:3
+y	../Repetições_Encaixadas/retangulo_cheio.py	/^    y = y + 1$/;"	kind:variable	line:11
+y	../Repetições_Encaixadas/retangulo_vazio.py	/^    y = y + 1$/;"	kind:variable	line:16
 y	../exe1_perimetro_area.py	/^y = valorInt ** 2$/;"	kind:variable	line:4
-y	../funcao/teste.py	/^y = "di"$/;"	kind:variable	line:5
-z	../funcao/teste.py	/^z= "el"$/;"	kind:variable	line:6
